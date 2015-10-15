@@ -1,6 +1,6 @@
 #### Allows you to start/debug NiFi within your IDE, essentially allowing you to set breakpoints etc.
 
-The project uses Gradle for dependency management and build.
+The project uses Gradle for dependency management and build which means thereit will self-provision if you don't have it therefore below directions shoudl work without any pre-requisites. 
 
 From the root of the project execute the following command:
 
