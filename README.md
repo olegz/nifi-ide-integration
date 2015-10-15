@@ -18,6 +18,7 @@ Once project is imported you need to set its _Working Directory_ to point to teh
 ```Run Configurations -> (right click) Java Aplication -> New```
 
 _Project Name:_ - ```nifi-ide-integration```
+
 _Main Class:_ - ```org.apache.nifi.NiFi```
 
 Switch to _Arguments_ tab and enter the location of your NiFi installation as 'Other' in _Working Directory_ section.
