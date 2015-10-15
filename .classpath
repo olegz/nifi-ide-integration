@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/ozhurakousky/.m2/repository/org/apache/nifi/nifi-api/0.3.1-SNAPSHOT/nifi-api-0.3.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/ozhurakousky/.m2/repository/org/apache/nifi/nifi-runtime/0.3.1-SNAPSHOT/nifi-runtime-0.3.1-SNAPSHOT.jar"/>
+	<classpathentry sourcepath="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.4/36cc23eb094b0789a6ae64b5c3a4130cb73ac1b/log4j-core-2.4-sources.jar" kind="lib" path="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.4/d99532ba3603f27bebf4cdd3653feb0e0b84cf6/log4j-core-2.4.jar"/>
+	<classpathentry sourcepath="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar" kind="lib" path="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar"/>
+	<classpathentry sourcepath="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.12/d58539043ddadebbe0df9f1ee82e00bcbe86e22c/slf4j-log4j12-1.7.12-sources.jar" kind="lib" path="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.12/485f77901840cf4e8bf852f2abb9b723eb8ec29/slf4j-log4j12-1.7.12.jar"/>
+	<classpathentry sourcepath="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.12/9bc85314566e28525c79697d52a6bfb81d1b998a/jul-to-slf4j-1.7.12-sources.jar" kind="lib" path="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.12/8811e2e9ab9055e557598dc9aedc64fd43e0ab20/jul-to-slf4j-1.7.12.jar"/>
+	<classpathentry kind="lib" path="/Users/ozhurakousky/.m2/repository/org/apache/nifi/nifi-nar-utils/0.3.1-SNAPSHOT/nifi-nar-utils-0.3.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/ozhurakousky/.m2/repository/org/apache/nifi/nifi-properties/0.3.1-SNAPSHOT/nifi-properties-0.3.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/ozhurakousky/.m2/repository/org/apache/nifi/nifi-documentation/0.3.1-SNAPSHOT/nifi-documentation-0.3.1-SNAPSHOT.jar"/>
+	<classpathentry sourcepath="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.4/c6c78a38c0569503a5df2442dc3725f1b8b2efe8/log4j-api-2.4-sources.jar" kind="lib" path="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.4/cc68e72d6d14098ba044123e10e048d203d3fd47/log4j-api-2.4.jar"/>
+	<classpathentry sourcepath="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/677abe279b68c5e7490d6d50c6951376238d7d3e/log4j-1.2.17-sources.jar" kind="lib" path="/Users/ozhurakousky/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar"/>
+</classpath>
