@@ -13,7 +13,7 @@ For example, for Eclipse follow these directions:
 
 ```File -> Import -> General -> Existing project into workspace```
 
-Once project is imported you need to set its _Working Directory_ to point to teh root of NiFi installation. For example in Eclipse click on the little black arrow to the right of _Run_ and then:
+Once project is imported you need to set its _Working Directory_ to point to the root of NiFi installation. For example in Eclipse click on the little black arrow to the right of _Run_ and then:
 
 ```Run Configurations -> (right click) Java Aplication -> New```
 
@@ -25,7 +25,7 @@ Switch to _Arguments_ tab and enter the location of your NiFi installation as 'O
 
 One last thing is to add sources
 
-Switch to _Source_ tab ```Add -> External System Directory``` and browse to the root of yoru NiFi clone.
+Switch to _Source_ tab ```Add -> External System Directory``` and browse to the root of your NiFi clone.
 
 That is it. You can "Run" or "Debug" it. 
 
