@@ -13,7 +13,10 @@ For example, for Eclipse follow these directions:
 
 ```File -> Import -> General -> Existing project into workspace```
 
-Once project is imported you need to set its _Working Directory_ to point to the root of NiFi installation. For example in Eclipse click on the little black arrow to the right of _Run_ and then:
+Once project is imported you need to set its _Working Directory_ to point to the root of NiFi installation.
+
+##### Eclipse
+Click on the little black arrow to the right of _Run_ and then:
 
 ```Run Configurations -> (right click) Java Aplication -> New```
 
@@ -29,6 +32,13 @@ Switch to _Source_ tab ```Add -> External System Directory``` and browse to the 
 
 That is it. You can "Run" or "Debug" it. 
 
+##### IntelliJ
+In IntelliJ the configuration is similar to Eclipse. The run part is accessible from:
 
+```Run -> Edit Configurations```
 
+For sources first you need to go to:
 
+```File -> Project Structure -> Modules -> Depenencies```
+
+Then add them by selecting "+" sign followed by ```JARs or directories```.
