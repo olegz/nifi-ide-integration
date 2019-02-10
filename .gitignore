@@ -4,3 +4,9 @@
 .gradle
 .project
 .settings
+/build/
+
+# IDEA files
+*.iml
+*.ipr
+*.iws
