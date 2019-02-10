@@ -14,12 +14,13 @@ repositories {
 }
 
 dependencies {
-    compile "org.apache.nifi:nifi-api:0.4.1" 
-    compile "org.apache.nifi:nifi-runtime:0.4.1"  
-    compile "org.apache.logging.log4j:log4j-core:2.4"
-    compile "org.slf4j:slf4j-api:1.7.12"
-    compile "org.slf4j:slf4j-log4j12:1.7.12"
-    compile "org.slf4j:jul-to-slf4j:1.7.12"
+    compile "javax.servlet:servlet-api:3.1.0"
+    compile "org.apache.nifi:nifi-api:1.8.0"
+    compile "org.apache.nifi:nifi-runtime:1.8.0"
+    compile "org.apache.logging.log4j:log4j-core:2.11.1"
+    compile "org.slf4j:slf4j-api:1.7.25"
+    compile "org.slf4j:slf4j-log4j12:1.7.25"
+    compile "org.slf4j:jul-to-slf4j:1.7.25"
 }
 
 task wrapper(type: Wrapper) {
